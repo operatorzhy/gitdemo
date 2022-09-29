@@ -12,5 +12,3 @@ hello git github gitee gitlab
 hello git github gitee gitlab
 hello git github gitee gitlab
 hello git github gitee gitlab
-hello git github gitee gitlab
-hello git github gitee gitlab
